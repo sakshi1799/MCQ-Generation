@@ -1,8 +1,5 @@
 
 #### **ALEART** This repo could't have glov6B.300d.txt.
-#  Question Generation
-This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working on it.
-
 ## General idea
 The idea is to generate multiple choice answers from text, by splitting this complex problem to simpler steps:
 
@@ -83,11 +80,3 @@ After adding a Demo project, the generated questions aren't really fit to go int
 
 The cool thing is the **simplicity** and **modularity** of the approach, where you could find where it's doing bad (*say it's classifying verbs*) and plug a fix into it. 
 
-Having a complex Neural Network (*like all the papers on the topics do*) will probably do better, especially in the age we're living. But the great thing I found out about this approach, is that it's like a *gateway for a software engineer*, with his software engineering mindset, to get into the field of AI and see meaningful results. 
-
-## Future work (*updated*)
-I find this topic quite interesting and with a lot of potential. I would probably continue working in this field.
-
- I even enrolled in a *Masters of Data Mining* and will probably do some similar projects. I will link anything useful here.
-
-I've already put some more time on finishing the project, but I would like to transform it more to a tutorial about getting into the field of AI while having the ability to easily extend it with new custom features. 
